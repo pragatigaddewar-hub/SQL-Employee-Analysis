@@ -41,4 +41,9 @@ This project answers a series of business questions about a company's workforce 
 
 ## Tools Used
 
-- **SQL (MySQL syntax)** for querying and analysis
+- **MySQL 8.0** (window functions need version 8.0 or later)
+- **MySQL Workbench 8.0 CE** to write and run the queries
+
+## Author
+
+Pragati Gaddewar
