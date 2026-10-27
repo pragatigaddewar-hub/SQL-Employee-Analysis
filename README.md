@@ -37,7 +37,7 @@ This project answers a series of business questions about a company's workforce 
 
 1. Download `employee_analytics.sql` from this repository.
 2. Run it in your preferred SQL environment (MySQL Workbench, MySQL CLI, or similar).
-3. Each query is followed by its result and a one-line insight as a comment for quick reference.
+3. Each query is followed by its result and a one-line insight in a comment for quick reference.
 
 ## Tools Used
 
