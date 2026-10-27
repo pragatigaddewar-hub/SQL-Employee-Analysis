@@ -4,7 +4,7 @@ A SQL project analyzing an employee dataset using aggregate functions, subquerie
 
 ## Overview
 
-This project answers a series of business questions about a company's workforce using SQL — starting from basic aggregations and building up to advanced subqueries, self-joins, and window functions like `RANK()`, `DENSE_RANK()`, and `ROW_NUMBER()`.
+This project answers a series of business questions about a company's workforce using SQL — starting from basic aggregations and building up to advanced subqueries, joins, and window functions like `RANK()`, `DENSE_RANK()`, and `ROW_NUMBER()`.
 
 ## Dataset
 
